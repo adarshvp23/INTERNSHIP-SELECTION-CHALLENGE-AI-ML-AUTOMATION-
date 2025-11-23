@@ -69,3 +69,6 @@ uvicorn api.app:app --reload --port 8000
 
 4) Start Frontend UI
 streamlit run frontend/streamlit_app.py
+
+## Demonstration video liink 
+https://youtu.be/0toEaK_rUjs?si=uus7hC5JpHJyXjO7
