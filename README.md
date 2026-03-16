@@ -1,13 +1,5 @@
-# INTERNSHIP-SELECTION-CHALLENGE-AI-ML-AUTOMATION-
+
 #  Hybrid RAG Support Bot (Advanced Retrieval-Augmented Generation System)
-
-##  Internship Challenge Submission
-This project is submitted for the **AI & Automation Internship Selection Challenge**, under:
-
-### **Option 1 — The "Hybrid" Support Bot (Advanced RAG)**  
-A system that performs accurate document-based question answering using hybrid retrieval, metadata filtering, reranking, and local LLM inference.
-
----
 
 ##  Problem Statement
 Traditional RAG systems perform **blind retrieval**, often returning irrelevant results and causing hallucinations.  
